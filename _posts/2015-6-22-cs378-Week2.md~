@@ -1,0 +1,12 @@
+---
+layout: page
+title: Week 2
+---
+
+
+During the second week of Generic Programming, I learned a lot of new concepts about c++. Even though the programming language is very similar to C, I still have difficult understanding about pointers and references with the use of the asterisk and the ampersand symbols, so the lectures and the topics Professor Downing chose were very helpful. He goes in detail and explains everything very well in a way that  i can understand at the moment. Obviously, to fully understand a programming language is to practice on our own and see what the differences are and that is one of the things professor Downing recommends for us to do after every lecture. 
+We also turn in our first project, collatz, and went over the second project about file dependencies. When i read the description for project 2, everything seem to make sense and it looked like it was going to be very easy project. Once the professor started talking about it in more detail, it seem that we actually had to use vectors and priority queues. The good thing is that the entire lecture was about project 2. We went over differences in queues and how to implement them, so it was a very helpful lecture. 
+
+TIP OF THE WEEK: For anyone that is still learning how to work with github, like myself, it is very important to read and research about the commands that are used so that if there is ever a time where you accidentally delete someones files or do something you didn't want to do, you know how to reverse or avoid that in the future.  
+
+ 
